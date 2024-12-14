@@ -1,2 +1,2 @@
 # the-beginning
-This is first my repository in github.
+This is  my first repository in github.
